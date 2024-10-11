@@ -1,0 +1,3198 @@
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+Unable to remove d:\game mods\hl2 mods\port of original ds to source\sp\game\mod_episodic\gamestats.log!
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config_default.cfg
+Host_WriteConfiguration: Wrote cfg/config.cfg
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: css_weapons_demo_01
+material "dev/dev_measuregeneric_black01" not found.
+material "dev/dev_measuregeneric_blue02" not found.
+material "dev/dev_measuregeneric_blue05" not found.
+material "dev/dev_measuregeneric_purple04" not found.
+material "dev/dev_measuregeneric_white01" not found.
+material "dev/dev_measuregeneric_red02" not found.
+material "dev/dev_measuregeneric_purple03" not found.
+material "dev/dev_measuregeneric_green04" not found.
+material "dev/dev_measuregeneric_brown03" not found.
+material "dev/dev_measuregeneric_red01" not found.
+material "dev/dev_measuregeneric_brown02" not found.
+material "dev/dev_measuregeneric_green03" not found.
+execing skill_manifest.cfg
+'skill.cfg' not present; not executing.
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type env_instructor_hint!
+Can't init env_instructor_hint
+Attempted to create unknown entity type info_target_instructor_hint!
+Can't init info_target_instructor_hint
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type env_instructor_hint!
+Can't init env_instructor_hint
+Attempted to create unknown entity type info_target_instructor_hint!
+Can't init info_target_instructor_hint
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type logic_format!
+Can't init logic_format
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 8 classes, 2079 bytes.
+Game started
+Missing CD Key from registry, inserting blank key
+
+Half-Life 2
+Map: css_weapons_demo_01
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/css_weapons_demo_01.txt.
+Saving d:\game mods\hl2 mods\port of original ds to source\sp\game\mod_episodic\sound\sound.cache
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 69.339 KB, outgoing 1.016 KB
+Queued Material System: ENABLED!
+Compact freed 475136 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Node Graph out of Date. Rebuilding... (0, 1, 0)
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 6.100 msec!
+Building AI node graph...
+Initializing node positions...
+...done initializing node positions. 0.001945 seconds
+Initializing node neighbors...
+...done initializing node neighbors. 0.005697 seconds
+Forcing dynamic link neighbors...
+...done forcing dynamic link neighbors. 0.000001 seconds
+Determining links...
+...done determining links. 0.418675 seconds
+Determining zones...
+...done determining zones. 0.000033 seconds
+...done building AI node graph, 0.435079 seconds
+ai_network(.PAVCBaseEntity@@) thinking for 462.49 ms!!!
+Attempted to create unknown entity type weapon_ak47!
+NULL Ent in GiveNamedItem!
+Late precache of models/weapons/v_rif_ak47.mdl
+Late precache of models/weapons/w_rif_ak47.mdl
+Late precache of models/weapons/v_pist_usp.mdl
+Late precache of models/weapons/w_pist_usp.mdl
+Late precache of models/weapons/w_pist_usp_silencer.mdl
+Late precache of models/weapons/v_smg_mp5.mdl
+Late precache of models/weapons/w_smg_mp5.mdl
+Late precache of models/weapons/v_snip_awp.mdl
+Late precache of models/weapons/w_snip_awp.mdl
+Late precache of models/weapons/v_mach_m249para.mdl
+Late precache of models/weapons/w_mach_m249para.mdl
+Saving d:\game mods\hl2 mods\port of original ds to source\sp\game\mod_episodic\sound\sound.cache
+Queued Material System: DISABLED!
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Server shutting down)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: css_weapons_demo_01
+material "dev/dev_measuregeneric_black01" not found.
+material "dev/dev_measuregeneric_blue02" not found.
+material "dev/dev_measuregeneric_blue05" not found.
+material "dev/dev_measuregeneric_purple04" not found.
+material "dev/dev_measuregeneric_white01" not found.
+material "dev/dev_measuregeneric_red02" not found.
+material "dev/dev_measuregeneric_purple03" not found.
+material "dev/dev_measuregeneric_green04" not found.
+material "dev/dev_measuregeneric_brown03" not found.
+material "dev/dev_measuregeneric_red01" not found.
+material "dev/dev_measuregeneric_brown02" not found.
+material "dev/dev_measuregeneric_green03" not found.
+execing skill_manifest.cfg
+'skill.cfg' not present; not executing.
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 37
+Done version checks
+Finishing load
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+PrecacheScriptSound 'Weapon_Blowtorch.Fire' failed, no such sound script entry
+Error reading weapon data file for: weapon_blowtorch
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type env_instructor_hint!
+Can't init env_instructor_hint
+Attempted to create unknown entity type info_target_instructor_hint!
+Can't init info_target_instructor_hint
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type env_instructor_hint!
+Can't init env_instructor_hint
+Attempted to create unknown entity type info_target_instructor_hint!
+Can't init info_target_instructor_hint
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type logic_format!
+Can't init logic_format
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+Attempted to create unknown entity type prop_interactable!
+Can't init prop_interactable
+Attempted to create unknown entity type vgui_text_display!
+Can't init vgui_text_display
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 8 classes, 2079 bytes.
+Game started
+
+Half-Life 2
+Map: css_weapons_demo_01
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+DataTable warning: No matching RecvTable for SendTable 'DT_Weapon357'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponAlyxGun'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponAnnabelle'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponAR2'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponBugBait'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponCitizenPackage'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponCitizenSuitcase'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponCrossbow'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponCrowbar'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponFrag'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponPistol'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponRPG'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponShotgun'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponSMG1'.
+Client missing DT class CWeapon357
+Client missing DT class CWeaponAlyxGun
+Client missing DT class CWeaponAnnabelle
+Client missing DT class CWeaponAR2
+Client missing DT class CWeaponBugBait
+Client missing DT class CWeaponCitizenPackage
+Client missing DT class CWeaponCitizenSuitcase
+Client missing DT class CWeaponCrossbow
+Client missing DT class CWeaponCrowbar
+Client missing DT class CWeaponFrag
+Client missing DT class CWeaponPistol
+Client missing DT class CWeaponRPG
+Client missing DT class CWeaponShotgun
+Client missing DT class CWeaponSMG1
+Host_EndGame: CL_ParseClassInfo_EndClasses: CreateDecoders failed.
+
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Disconnect by user.)
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: testmap
+"materials/maps/testmap/cubemapdefault.vtf": can't be found on disk
+Texture 'maps/testmap/cubemapdefault' not found.
+execing skill_manifest.cfg
+'skill.cfg' not present; not executing.
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+PrecacheScriptSound 'Weapon_Blowtorch.Fire' failed, no such sound script entry
+Error reading weapon data file for: weapon_blowtorch
+Attempted to create unknown entity type monster_apache!
+Can't init monster_apache
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type monster_miniturret!
+Can't init monster_miniturret
+Attempted to create unknown entity type weapon_m60!
+Can't init weapon_m60
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type weapon_laws!
+Can't init weapon_laws
+Attempted to create unknown entity type weapon_radiocontrolledbomb!
+Can't init weapon_radiocontrolledbomb
+Attempted to create unknown entity type weapon_fiberopticcamera!
+Can't init weapon_fiberopticcamera
+Attempted to create unknown entity type npc_dss_terrorist!
+Can't init npc_dss_terrorist
+Attempted to create unknown entity type weapon_shieldgun!
+Can't init weapon_shieldgun
+Attempted to create unknown entity type trigger_stealth!
+Can't init trigger_stealth
+Attempted to create unknown entity type monster_hostage!
+Can't init monster_hostage
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type info_hostage_rescue!
+Can't init info_hostage_rescue
+Couldn't find any entities named bad_chopper_left, which point_template template_heli is specifying.
+Couldn't find any entities named monster_miniturret, which point_template template_miniturret is specifying.
+Couldn't find any entities named weapons_laws, which point_template template_laws is specifying.
+Couldn't find any entities named weapon_radiocontrolledbomb, which point_template template_rcb is specifying.
+Couldn't find any entities named weapon_m3, which point_template template_m3 is specifying.
+Couldn't find any entities named weapon_fiberopticcamera, which point_template template_fiber is specifying.
+Couldn't find any entities named npc_dss_terrorist, which point_template template_terror is specifying.
+Couldn't find any entities named weapon_shieldgun, which point_template template_shield is specifying.
+Precache called on a point_template that has no templates: template_heli
+Precache called on a point_template that has no templates: template_miniturret
+Precache called on a point_template that has no templates: template_laws
+Precache called on a point_template that has no templates: template_rcb
+Precache called on a point_template that has no templates: template_m3
+Precache called on a point_template that has no templates: template_fiber
+Error reading weapon data file for: weapon_blowtorch
+Error reading weapon data file for: weapon_briefcase
+Error reading weapon data file for: weapon_camera
+Precache called on a point_template that has no templates: template_terror
+Precache called on a point_template that has no templates: template_shield
+Error reading weapon data file for: weapon_radio
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 5 classes, 1383 bytes.
+Game started
+
+Half-Life 2
+Map: testmap
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+material "skybox/morningdewrt" not found.
+material "skybox/sky_urb01rt" not found.
+Unable to load sky morningdew
+Level unlit, setting 'mat_fullbright 1'
+DataTable warning: No matching RecvTable for SendTable 'DT_Weapon357'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponAlyxGun'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponAnnabelle'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponAR2'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponBugBait'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponCitizenPackage'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponCitizenSuitcase'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponCrossbow'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponCrowbar'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponFrag'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponPistol'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponRPG'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponShotgun'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponSMG1'.
+Client missing DT class CWeapon357
+Client missing DT class CWeaponAlyxGun
+Client missing DT class CWeaponAnnabelle
+Client missing DT class CWeaponAR2
+Client missing DT class CWeaponBugBait
+Client missing DT class CWeaponCitizenPackage
+Client missing DT class CWeaponCitizenSuitcase
+Client missing DT class CWeaponCrossbow
+Client missing DT class CWeaponCrowbar
+Client missing DT class CWeaponFrag
+Client missing DT class CWeaponPistol
+Client missing DT class CWeaponRPG
+Client missing DT class CWeaponShotgun
+Client missing DT class CWeaponSMG1
+Host_EndGame: CL_ParseClassInfo_EndClasses: CreateDecoders failed.
+
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Disconnect by user.)
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: testmap
+"materials/maps/testmap/cubemapdefault.vtf": can't be found on disk
+Texture 'maps/testmap/cubemapdefault' not found.
+execing skill_manifest.cfg
+'skill.cfg' not present; not executing.
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+PrecacheScriptSound 'Weapon_Blowtorch.Fire' failed, no such sound script entry
+Error reading weapon data file for: weapon_blowtorch
+Attempted to create unknown entity type monster_apache!
+Can't init monster_apache
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type monster_miniturret!
+Can't init monster_miniturret
+Attempted to create unknown entity type weapon_m60!
+Can't init weapon_m60
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type weapon_laws!
+Can't init weapon_laws
+Attempted to create unknown entity type weapon_radiocontrolledbomb!
+Can't init weapon_radiocontrolledbomb
+Attempted to create unknown entity type weapon_fiberopticcamera!
+Can't init weapon_fiberopticcamera
+Attempted to create unknown entity type npc_dss_terrorist!
+Can't init npc_dss_terrorist
+Attempted to create unknown entity type weapon_shieldgun!
+Can't init weapon_shieldgun
+Attempted to create unknown entity type trigger_stealth!
+Can't init trigger_stealth
+Attempted to create unknown entity type monster_hostage!
+Can't init monster_hostage
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type info_hostage_rescue!
+Can't init info_hostage_rescue
+Couldn't find any entities named bad_chopper_left, which point_template template_heli is specifying.
+Couldn't find any entities named monster_miniturret, which point_template template_miniturret is specifying.
+Couldn't find any entities named weapons_laws, which point_template template_laws is specifying.
+Couldn't find any entities named weapon_radiocontrolledbomb, which point_template template_rcb is specifying.
+Couldn't find any entities named weapon_m3, which point_template template_m3 is specifying.
+Couldn't find any entities named weapon_fiberopticcamera, which point_template template_fiber is specifying.
+Couldn't find any entities named npc_dss_terrorist, which point_template template_terror is specifying.
+Couldn't find any entities named weapon_shieldgun, which point_template template_shield is specifying.
+Precache called on a point_template that has no templates: template_heli
+Precache called on a point_template that has no templates: template_miniturret
+Precache called on a point_template that has no templates: template_laws
+Precache called on a point_template that has no templates: template_rcb
+Precache called on a point_template that has no templates: template_m3
+Precache called on a point_template that has no templates: template_fiber
+Error reading weapon data file for: weapon_blowtorch
+Error reading weapon data file for: weapon_briefcase
+Error reading weapon data file for: weapon_camera
+Precache called on a point_template that has no templates: template_terror
+Precache called on a point_template that has no templates: template_shield
+Error reading weapon data file for: weapon_radio
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 5 classes, 1383 bytes.
+Game started
+
+Half-Life 2
+Map: testmap
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+material "skybox/morningdewrt" not found.
+material "skybox/sky_urb01rt" not found.
+Unable to load sky morningdew
+Level unlit, setting 'mat_fullbright 1'
+DataTable warning: No matching RecvTable for SendTable 'DT_Weapon357'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponAlyxGun'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponAnnabelle'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponAR2'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponBugBait'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponCitizenPackage'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponCitizenSuitcase'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponCrossbow'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponCrowbar'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponFrag'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponPistol'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponRPG'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponShotgun'.
+DataTable warning: No matching RecvTable for SendTable 'DT_WeaponSMG1'.
+Client missing DT class CWeapon357
+Client missing DT class CWeaponAlyxGun
+Client missing DT class CWeaponAnnabelle
+Client missing DT class CWeaponAR2
+Client missing DT class CWeaponBugBait
+Client missing DT class CWeaponCitizenPackage
+Client missing DT class CWeaponCitizenSuitcase
+Client missing DT class CWeaponCrossbow
+Client missing DT class CWeaponCrowbar
+Client missing DT class CWeaponFrag
+Client missing DT class CWeaponPistol
+Client missing DT class CWeaponRPG
+Client missing DT class CWeaponShotgun
+Client missing DT class CWeaponSMG1
+Host_EndGame: CL_ParseClassInfo_EndClasses: CreateDecoders failed.
+
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Disconnect by user.)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.2 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: testmap
+"materials/maps/testmap/cubemapdefault.vtf": can't be found on disk
+Texture 'maps/testmap/cubemapdefault' not found.
+execing skill_manifest.cfg
+'skill.cfg' not present; not executing.
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+PrecacheScriptSound 'Weapon_Blowtorch.Fire' failed, no such sound script entry
+Error reading weapon data file for: weapon_blowtorch
+Attempted to create unknown entity type monster_apache!
+Can't init monster_apache
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type monster_miniturret!
+Can't init monster_miniturret
+Attempted to create unknown entity type weapon_m60!
+Can't init weapon_m60
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type weapon_laws!
+Can't init weapon_laws
+Attempted to create unknown entity type weapon_radiocontrolledbomb!
+Can't init weapon_radiocontrolledbomb
+Attempted to create unknown entity type weapon_fiberopticcamera!
+Can't init weapon_fiberopticcamera
+Attempted to create unknown entity type npc_dss_terrorist!
+Can't init npc_dss_terrorist
+Attempted to create unknown entity type weapon_shieldgun!
+Can't init weapon_shieldgun
+Attempted to create unknown entity type trigger_stealth!
+Can't init trigger_stealth
+Attempted to create unknown entity type monster_hostage!
+Can't init monster_hostage
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type info_hostage_rescue!
+Can't init info_hostage_rescue
+Couldn't find any entities named bad_chopper_left, which point_template template_heli is specifying.
+Couldn't find any entities named monster_miniturret, which point_template template_miniturret is specifying.
+Couldn't find any entities named weapons_laws, which point_template template_laws is specifying.
+Couldn't find any entities named weapon_radiocontrolledbomb, which point_template template_rcb is specifying.
+Couldn't find any entities named weapon_m3, which point_template template_m3 is specifying.
+Couldn't find any entities named weapon_fiberopticcamera, which point_template template_fiber is specifying.
+Couldn't find any entities named npc_dss_terrorist, which point_template template_terror is specifying.
+Couldn't find any entities named weapon_shieldgun, which point_template template_shield is specifying.
+Precache called on a point_template that has no templates: template_heli
+Precache called on a point_template that has no templates: template_miniturret
+Precache called on a point_template that has no templates: template_laws
+Precache called on a point_template that has no templates: template_rcb
+Precache called on a point_template that has no templates: template_m3
+Precache called on a point_template that has no templates: template_fiber
+Error reading weapon data file for: weapon_blowtorch
+Error reading weapon data file for: weapon_briefcase
+Error reading weapon data file for: weapon_camera
+Precache called on a point_template that has no templates: template_terror
+Precache called on a point_template that has no templates: template_shield
+Error reading weapon data file for: weapon_radio
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 5 classes, 1383 bytes.
+Game started
+
+Half-Life 2
+Map: testmap
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+material "skybox/morningdewrt" not found.
+material "skybox/sky_urb01rt" not found.
+Unable to load sky morningdew
+Level unlit, setting 'mat_fullbright 1'
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/testmap.txt.
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 57.052 KB, outgoing 1.016 KB
+Queued Material System: ENABLED!
+Compact freed 479232 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Node Graph out of Date. Rebuilding... (0, 1, 0)
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 2.819 msec!
+ai_network(.PAVCBaseEntity@@) thinking for 26.89 ms!!!
+Error reading weapon data file for: weapon_blowtorch
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Error reading weapon data file for: weapon_blowtorch
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Error reading weapon data file for: weapon_camera
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Error reading weapon data file for: weapon_camera
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+CreateInstance called on a point_template that has no templates: template_m3
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Error reading weapon data file for: weapon_radio
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+CreateInstance called on a point_template that has no templates: template_heli
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Queued Material System: DISABLED!
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Server shutting down)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: testmap
+"materials/maps/testmap/cubemapdefault.vtf": can't be found on disk
+Texture 'maps/testmap/cubemapdefault' not found.
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 73
+Done version checks
+Finishing load
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+PrecacheScriptSound 'Weapon_Blowtorch.Fire' failed, no such sound script entry
+Error reading weapon data file for: weapon_blowtorch
+Attempted to create unknown entity type monster_apache!
+Can't init monster_apache
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type monster_miniturret!
+Can't init monster_miniturret
+Attempted to create unknown entity type weapon_m60!
+Can't init weapon_m60
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type weapon_laws!
+Can't init weapon_laws
+Attempted to create unknown entity type weapon_radiocontrolledbomb!
+Can't init weapon_radiocontrolledbomb
+Attempted to create unknown entity type weapon_fiberopticcamera!
+Can't init weapon_fiberopticcamera
+Attempted to create unknown entity type npc_dss_terrorist!
+Can't init npc_dss_terrorist
+Attempted to create unknown entity type weapon_shieldgun!
+Can't init weapon_shieldgun
+Attempted to create unknown entity type trigger_stealth!
+Can't init trigger_stealth
+Attempted to create unknown entity type monster_hostage!
+Can't init monster_hostage
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type info_hostage_rescue!
+Can't init info_hostage_rescue
+Couldn't find any entities named bad_chopper_left, which point_template template_heli is specifying.
+Couldn't find any entities named monster_miniturret, which point_template template_miniturret is specifying.
+Couldn't find any entities named weapons_laws, which point_template template_laws is specifying.
+Couldn't find any entities named weapon_radiocontrolledbomb, which point_template template_rcb is specifying.
+Couldn't find any entities named weapon_m3, which point_template template_m3 is specifying.
+Couldn't find any entities named weapon_fiberopticcamera, which point_template template_fiber is specifying.
+Couldn't find any entities named npc_dss_terrorist, which point_template template_terror is specifying.
+Couldn't find any entities named weapon_shieldgun, which point_template template_shield is specifying.
+Precache called on a point_template that has no templates: template_heli
+Precache called on a point_template that has no templates: template_miniturret
+Precache called on a point_template that has no templates: template_laws
+Precache called on a point_template that has no templates: template_rcb
+Precache called on a point_template that has no templates: template_m3
+Precache called on a point_template that has no templates: template_fiber
+Error reading weapon data file for: weapon_blowtorch
+Error reading weapon data file for: weapon_briefcase
+Error reading weapon data file for: weapon_camera
+Precache called on a point_template that has no templates: template_terror
+Precache called on a point_template that has no templates: template_shield
+Error reading weapon data file for: weapon_radio
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 5 classes, 1383 bytes.
+Game started
+
+Half-Life 2
+Map: testmap
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+material "skybox/morningdewrt" not found.
+material "skybox/sky_urb01rt" not found.
+Unable to load sky morningdew
+Level unlit, setting 'mat_fullbright 1'
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/testmap.txt.
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 57.073 KB, outgoing 1.016 KB
+Queued Material System: ENABLED!
+Compact freed 479232 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 2.231 msec!
+Saving game to save\half-life-000.sav...
+Queued Material System: DISABLED!
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Server shutting down)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: testmap
+"materials/maps/testmap/cubemapdefault.vtf": can't be found on disk
+Texture 'maps/testmap/cubemapdefault' not found.
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 73
+Done version checks
+Finishing load
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+PrecacheScriptSound 'Weapon_Blowtorch.Fire' failed, no such sound script entry
+Error reading weapon data file for: weapon_blowtorch
+Attempted to create unknown entity type monster_apache!
+Can't init monster_apache
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type monster_miniturret!
+Can't init monster_miniturret
+Attempted to create unknown entity type weapon_m60!
+Can't init weapon_m60
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type weapon_laws!
+Can't init weapon_laws
+Attempted to create unknown entity type weapon_radiocontrolledbomb!
+Can't init weapon_radiocontrolledbomb
+Attempted to create unknown entity type weapon_fiberopticcamera!
+Can't init weapon_fiberopticcamera
+Attempted to create unknown entity type npc_dss_terrorist!
+Can't init npc_dss_terrorist
+Attempted to create unknown entity type weapon_shieldgun!
+Can't init weapon_shieldgun
+Attempted to create unknown entity type trigger_stealth!
+Can't init trigger_stealth
+Attempted to create unknown entity type monster_hostage!
+Can't init monster_hostage
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type info_hostage_rescue!
+Can't init info_hostage_rescue
+Couldn't find any entities named bad_chopper_left, which point_template template_heli is specifying.
+Couldn't find any entities named monster_miniturret, which point_template template_miniturret is specifying.
+Couldn't find any entities named weapons_laws, which point_template template_laws is specifying.
+Couldn't find any entities named weapon_radiocontrolledbomb, which point_template template_rcb is specifying.
+Couldn't find any entities named weapon_m3, which point_template template_m3 is specifying.
+Couldn't find any entities named weapon_fiberopticcamera, which point_template template_fiber is specifying.
+Couldn't find any entities named npc_dss_terrorist, which point_template template_terror is specifying.
+Couldn't find any entities named weapon_shieldgun, which point_template template_shield is specifying.
+Precache called on a point_template that has no templates: template_heli
+Precache called on a point_template that has no templates: template_miniturret
+Precache called on a point_template that has no templates: template_laws
+Precache called on a point_template that has no templates: template_rcb
+Precache called on a point_template that has no templates: template_m3
+Precache called on a point_template that has no templates: template_fiber
+Error reading weapon data file for: weapon_blowtorch
+Error reading weapon data file for: weapon_briefcase
+Error reading weapon data file for: weapon_camera
+Precache called on a point_template that has no templates: template_terror
+Precache called on a point_template that has no templates: template_shield
+Error reading weapon data file for: weapon_radio
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 5 classes, 1383 bytes.
+Game started
+
+Half-Life 2
+Map: testmap
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+material "skybox/morningdewrt" not found.
+material "skybox/sky_urb01rt" not found.
+Unable to load sky morningdew
+Level unlit, setting 'mat_fullbright 1'
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/testmap.txt.
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 57.073 KB, outgoing 1.016 KB
+Queued Material System: ENABLED!
+Compact freed 475136 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 57.499 msec!
+Attempted to create unknown entity type weapon_ak47!
+NULL Ent in GiveNamedItem!
+Late precache of models/weapons/v_rif_ak47.mdl
+Late precache of models/weapons/w_rif_ak47.mdl
+Queued Material System: DISABLED!
+ 1:Stopped sound hl1\fvox\flatline.wav
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Server shutting down)
+---- Host_NewGame ----
+Spawn Server: testmap
+"materials/maps/testmap/cubemapdefault.vtf": can't be found on disk
+Texture 'maps/testmap/cubemapdefault' not found.
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 73
+Done version checks
+Finishing load
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+Error reading weapon data file for: weapon_blowtorch
+Attempted to create unknown entity type monster_apache!
+Can't init monster_apache
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type monster_miniturret!
+Can't init monster_miniturret
+Attempted to create unknown entity type weapon_m60!
+Can't init weapon_m60
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type weapon_laws!
+Can't init weapon_laws
+Attempted to create unknown entity type weapon_radiocontrolledbomb!
+Can't init weapon_radiocontrolledbomb
+Attempted to create unknown entity type weapon_fiberopticcamera!
+Can't init weapon_fiberopticcamera
+Attempted to create unknown entity type npc_dss_terrorist!
+Can't init npc_dss_terrorist
+Attempted to create unknown entity type weapon_shieldgun!
+Can't init weapon_shieldgun
+Attempted to create unknown entity type trigger_stealth!
+Can't init trigger_stealth
+Attempted to create unknown entity type monster_hostage!
+Can't init monster_hostage
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type info_hostage_rescue!
+Can't init info_hostage_rescue
+Couldn't find any entities named bad_chopper_left, which point_template template_heli is specifying.
+Couldn't find any entities named monster_miniturret, which point_template template_miniturret is specifying.
+Couldn't find any entities named weapons_laws, which point_template template_laws is specifying.
+Couldn't find any entities named weapon_radiocontrolledbomb, which point_template template_rcb is specifying.
+Couldn't find any entities named weapon_m3, which point_template template_m3 is specifying.
+Couldn't find any entities named weapon_fiberopticcamera, which point_template template_fiber is specifying.
+Couldn't find any entities named npc_dss_terrorist, which point_template template_terror is specifying.
+Couldn't find any entities named weapon_shieldgun, which point_template template_shield is specifying.
+Precache called on a point_template that has no templates: template_heli
+Precache called on a point_template that has no templates: template_miniturret
+Precache called on a point_template that has no templates: template_laws
+Precache called on a point_template that has no templates: template_rcb
+Precache called on a point_template that has no templates: template_m3
+Precache called on a point_template that has no templates: template_fiber
+Error reading weapon data file for: weapon_blowtorch
+Error reading weapon data file for: weapon_briefcase
+Error reading weapon data file for: weapon_camera
+Precache called on a point_template that has no templates: template_terror
+Precache called on a point_template that has no templates: template_shield
+Error reading weapon data file for: weapon_radio
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Game started
+
+Half-Life 2
+Map: testmap
+Players: 1 / 1
+Build: 0
+Server Number: 2
+
+Initializing renderer...
+Unable to load sky morningdew
+Level unlit, setting 'mat_fullbright 1'
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 54.214 KB, outgoing 1.427 KB
+Queued Material System: ENABLED!
+Compact freed 970752 bytes
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 1.328 msec!
+CreateInstance called on a point_template that has no templates: template_shield
+Error reading weapon data file for: weapon_radio
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Error reading weapon data file for: weapon_radio
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Queued Material System: DISABLED!
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Server shutting down)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: testmap
+"materials/maps/testmap/cubemapdefault.vtf": can't be found on disk
+Texture 'maps/testmap/cubemapdefault' not found.
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 73
+Done version checks
+Finishing load
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+PrecacheScriptSound 'Weapon_Blowtorch.Fire' failed, no such sound script entry
+Error reading weapon data file for: weapon_blowtorch
+Attempted to create unknown entity type monster_apache!
+Can't init monster_apache
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type monster_miniturret!
+Can't init monster_miniturret
+Attempted to create unknown entity type weapon_m60!
+Can't init weapon_m60
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type weapon_laws!
+Can't init weapon_laws
+Attempted to create unknown entity type weapon_radiocontrolledbomb!
+Can't init weapon_radiocontrolledbomb
+Attempted to create unknown entity type weapon_fiberopticcamera!
+Can't init weapon_fiberopticcamera
+Attempted to create unknown entity type npc_dss_terrorist!
+Can't init npc_dss_terrorist
+Attempted to create unknown entity type weapon_shieldgun!
+Can't init weapon_shieldgun
+Attempted to create unknown entity type trigger_stealth!
+Can't init trigger_stealth
+Attempted to create unknown entity type monster_hostage!
+Can't init monster_hostage
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type info_hostage_rescue!
+Can't init info_hostage_rescue
+Couldn't find any entities named bad_chopper_left, which point_template template_heli is specifying.
+Couldn't find any entities named monster_miniturret, which point_template template_miniturret is specifying.
+Couldn't find any entities named weapons_laws, which point_template template_laws is specifying.
+Couldn't find any entities named weapon_radiocontrolledbomb, which point_template template_rcb is specifying.
+Couldn't find any entities named weapon_m3, which point_template template_m3 is specifying.
+Couldn't find any entities named weapon_fiberopticcamera, which point_template template_fiber is specifying.
+Couldn't find any entities named npc_dss_terrorist, which point_template template_terror is specifying.
+Couldn't find any entities named weapon_shieldgun, which point_template template_shield is specifying.
+Precache called on a point_template that has no templates: template_heli
+Precache called on a point_template that has no templates: template_miniturret
+Precache called on a point_template that has no templates: template_laws
+Precache called on a point_template that has no templates: template_rcb
+Precache called on a point_template that has no templates: template_m3
+Precache called on a point_template that has no templates: template_fiber
+Error reading weapon data file for: weapon_blowtorch
+Error reading weapon data file for: weapon_briefcase
+Error reading weapon data file for: weapon_camera
+Precache called on a point_template that has no templates: template_terror
+Precache called on a point_template that has no templates: template_shield
+Error reading weapon data file for: weapon_radio
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 5 classes, 1383 bytes.
+Game started
+
+Half-Life 2
+Map: testmap
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+material "skybox/morningdewrt" not found.
+material "skybox/sky_urb01rt" not found.
+Unable to load sky morningdew
+Level unlit, setting 'mat_fullbright 1'
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/testmap.txt.
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 57.073 KB, outgoing 928 bytes
+Queued Material System: ENABLED!
+Compact freed 479232 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 1.712 msec!
+CreateInstance called on a point_template that has no templates: template_fiber
+Error reading weapon data file for: weapon_blowtorch
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Error reading weapon data file for: weapon_blowtorch
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Error reading weapon data file for: weapon_briefcase
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Error reading weapon data file for: weapon_briefcase
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Error reading weapon data file for: weapon_camera
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Error reading weapon data file for: weapon_camera
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+CreateInstance called on a point_template that has no templates: template_shield
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Error reading weapon data file for: weapon_radio
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Error reading weapon data file for: weapon_radio
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+CreateInstance called on a point_template that has no templates: template_m3
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+CreateInstance called on a point_template that has no templates: template_terror
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+CreateInstance called on a point_template that has no templates: template_terror
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+CreateInstance called on a point_template that has no templates: template_miniturret
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+CreateInstance called on a point_template that has no templates: template_miniturret
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+CreateInstance called on a point_template that has no templates: template_heli
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Bad pstudiohdr in GetSequenceLinearMotion()!
+Attempted to create unknown entity type weapon_elite!
+NULL Ent in GiveNamedItem!
+Late precache of models/weapons/v_pist_elite.mdl
+Late precache of models/weapons/w_pist_elite_dropped.mdl
+PrecacheScriptSound 'Weapon_Elite.NPC_Single' failed, no such sound script entry
+PrecacheScriptSound 'Weapon_Elite.NPC_Reload' failed, no such sound script entry
+Attempted to create unknown entity type weapon_css_ak57!
+NULL Ent in GiveNamedItem!
+Late precache of models/weapons/v_rif_ak47.mdl
+Late precache of models/weapons/w_rif_ak47.mdl
+Saving d:\game mods\hl2 mods\port of original ds to source\sp\game\mod_episodic\sound\sound.cache
+Queued Material System: DISABLED!
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Server shutting down)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: testmap
+"materials/maps/testmap/cubemapdefault.vtf": can't be found on disk
+Texture 'maps/testmap/cubemapdefault' not found.
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 73
+Done version checks
+Finishing load
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+PrecacheScriptSound 'Weapon_Blowtorch.Fire' failed, no such sound script entry
+Error reading weapon data file for: weapon_blowtorch
+Attempted to create unknown entity type monster_apache!
+Can't init monster_apache
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type monster_miniturret!
+Can't init monster_miniturret
+Attempted to create unknown entity type weapon_m60!
+Can't init weapon_m60
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type weapon_laws!
+Can't init weapon_laws
+Attempted to create unknown entity type weapon_radiocontrolledbomb!
+Can't init weapon_radiocontrolledbomb
+Attempted to create unknown entity type weapon_fiberopticcamera!
+Can't init weapon_fiberopticcamera
+Attempted to create unknown entity type npc_dss_terrorist!
+Can't init npc_dss_terrorist
+Attempted to create unknown entity type weapon_shieldgun!
+Can't init weapon_shieldgun
+Attempted to create unknown entity type trigger_stealth!
+Can't init trigger_stealth
+Attempted to create unknown entity type monster_hostage!
+Can't init monster_hostage
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type info_hostage_rescue!
+Can't init info_hostage_rescue
+Couldn't find any entities named bad_chopper_left, which point_template template_heli is specifying.
+Couldn't find any entities named monster_miniturret, which point_template template_miniturret is specifying.
+Couldn't find any entities named weapons_laws, which point_template template_laws is specifying.
+Couldn't find any entities named weapon_radiocontrolledbomb, which point_template template_rcb is specifying.
+Couldn't find any entities named weapon_m3, which point_template template_m3 is specifying.
+Couldn't find any entities named weapon_fiberopticcamera, which point_template template_fiber is specifying.
+Couldn't find any entities named npc_dss_terrorist, which point_template template_terror is specifying.
+Couldn't find any entities named weapon_shieldgun, which point_template template_shield is specifying.
+Precache called on a point_template that has no templates: template_heli
+Precache called on a point_template that has no templates: template_miniturret
+Precache called on a point_template that has no templates: template_laws
+Precache called on a point_template that has no templates: template_rcb
+Precache called on a point_template that has no templates: template_m3
+Precache called on a point_template that has no templates: template_fiber
+Error reading weapon data file for: weapon_blowtorch
+Error reading weapon data file for: weapon_briefcase
+Error reading weapon data file for: weapon_camera
+Precache called on a point_template that has no templates: template_terror
+Precache called on a point_template that has no templates: template_shield
+Error reading weapon data file for: weapon_radio
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 5 classes, 1383 bytes.
+Game started
+
+Half-Life 2
+Map: testmap
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+material "skybox/morningdewrt" not found.
+material "skybox/sky_urb01rt" not found.
+Unable to load sky morningdew
+Level unlit, setting 'mat_fullbright 1'
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/testmap.txt.
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 57.073 KB, outgoing 928 bytes
+Queued Material System: ENABLED!
+Compact freed 479232 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 1.228 msec!
+CreateInstance called on a point_template that has no templates: template_m3
+Late precache of models/weapons/v_pist_p228.mdl
+Late precache of models/weapons/w_pist_p228.mdl
