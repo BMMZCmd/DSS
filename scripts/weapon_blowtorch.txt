@@ -1,21 +1,18 @@
 WeaponData
 {
 	// Weapon data is loaded by both the Game and Client DLLs.
-	"printname"	"Blowtorch"
-	"viewmodel"				"models/v_btorch.mdl"
+	"printname"				"Blowtorch"
+	"viewmodel"				"models/weapons/v_btorch.mdl"
 	"anim_prefix"			"blowtorch"
 	"bucket"				"4"
 	"bucket_position"		"0"
 
 	"primary_ammo"			"None"
-
-	"clip_size"				"3"
-	"secondary_ammo"			"rdb"
-	"default_clip2"			"3"
+	"secondary_ammo"		"None"
 
 	"weight"				"1"
 	"item_flags"			"2"
-	"ViewModelFOV"			"90"
+	"viewmodel_fov"			"90"
 
 	// Weapon Sprite data is loaded by the Client DLL.
 	TextureData
@@ -30,11 +27,7 @@ WeaponData
 				"font"		"WeaponIconsSelected"
 				"character"	"o"
 		}
-		"ammo2"
-		{
-				"font"		"BulletIcons"
-				"character"	"I"
-		}crosshair"
+		"crosshair"
 		{
 				"file"		"sprites/crosshairs"
 				"x"			"0"

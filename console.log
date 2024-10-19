@@ -3196,3 +3196,2391 @@ R_RedownloadAllLightmaps took 1.228 msec!
 CreateInstance called on a point_template that has no templates: template_m3
 Late precache of models/weapons/v_pist_p228.mdl
 Late precache of models/weapons/w_pist_p228.mdl
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: testmap
+"materials/maps/testmap/cubemapdefault.vtf": can't be found on disk
+Texture 'maps/testmap/cubemapdefault' not found.
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 73
+Done version checks
+Finishing load
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+PrecacheScriptSound 'Weapon_Blowtorch.Fire' failed, no such sound script entry
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/weapon_blowtorch.txt
+WeaponData, TextureData, 24, (*ammo2*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/weapon_blowtorch.txt
+WeaponData, (*TextureData*), (*24*), (*ammo2*), 
+ERROR: Weapon (weapon_blowtorch) using undefined secondary ammo type (rdb)
+Failed to load models/v_btorch.mdl!
+Attempted to create unknown entity type monster_apache!
+Can't init monster_apache
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type monster_miniturret!
+Can't init monster_miniturret
+Attempted to create unknown entity type weapon_m60!
+Can't init weapon_m60
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type weapon_laws!
+Can't init weapon_laws
+Attempted to create unknown entity type weapon_radiocontrolledbomb!
+Can't init weapon_radiocontrolledbomb
+Attempted to create unknown entity type weapon_fiberopticcamera!
+Can't init weapon_fiberopticcamera
+Attempted to create unknown entity type npc_dss_terrorist!
+Can't init npc_dss_terrorist
+Attempted to create unknown entity type weapon_shieldgun!
+Can't init weapon_shieldgun
+Attempted to create unknown entity type trigger_stealth!
+Can't init trigger_stealth
+Attempted to create unknown entity type monster_hostage!
+Can't init monster_hostage
+Attempted to create unknown entity type trigger_usetool!
+Can't init trigger_usetool
+Attempted to create unknown entity type info_hostage_rescue!
+Can't init info_hostage_rescue
+Couldn't find any entities named bad_chopper_left, which point_template template_heli is specifying.
+Couldn't find any entities named monster_miniturret, which point_template template_miniturret is specifying.
+Couldn't find any entities named weapons_laws, which point_template template_laws is specifying.
+Couldn't find any entities named weapon_radiocontrolledbomb, which point_template template_rcb is specifying.
+Couldn't find any entities named weapon_m3, which point_template template_m3 is specifying.
+Couldn't find any entities named weapon_fiberopticcamera, which point_template template_fiber is specifying.
+Couldn't find any entities named npc_dss_terrorist, which point_template template_terror is specifying.
+Couldn't find any entities named weapon_shieldgun, which point_template template_shield is specifying.
+Precache called on a point_template that has no templates: template_heli
+Precache called on a point_template that has no templates: template_miniturret
+Precache called on a point_template that has no templates: template_laws
+Precache called on a point_template that has no templates: template_rcb
+Precache called on a point_template that has no templates: template_m3
+Precache called on a point_template that has no templates: template_fiber
+ERROR: Weapon (weapon_blowtorch) using undefined secondary ammo type (rdb)
+Error reading weapon data file for: weapon_briefcase
+Error reading weapon data file for: weapon_camera
+Precache called on a point_template that has no templates: template_terror
+Precache called on a point_template that has no templates: template_shield
+Error reading weapon data file for: weapon_radio
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 5 classes, 1383 bytes.
+Game started
+
+Half-Life 2
+Map: testmap
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+material "skybox/morningdewrt" not found.
+material "skybox/sky_urb01rt" not found.
+Unable to load sky morningdew
+Level unlit, setting 'mat_fullbright 1'
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/testmap.txt.
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 57.088 KB, outgoing 1.016 KB
+Queued Material System: ENABLED!
+Compact freed 475136 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 6.718 msec!
+scene_manager(.PAVCBaseEntity@@) thinking for 11.26 ms!!!
+godmode ON
+Late precache of models/weapons/v_rif_m4a1.mdl
+Late precache of models/weapons/w_rif_m4a1.mdl
+Late precache of models/weapons/w_rif_m4a1_silencer.mdl
+Saving d:\game mods\hl2 mods\port of original ds to source\sp\game\mod_episodic\sound\sound.cache
+Queued Material System: DISABLED!
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Server shutting down)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: sdk_vehicles
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+PrecacheScriptSound 'Weapon_Blowtorch.Fire' failed, no such sound script entry
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/weapon_blowtorch.txt
+WeaponData, TextureData, 24, (*ammo2*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/weapon_blowtorch.txt
+WeaponData, (*TextureData*), (*24*), (*ammo2*), 
+ERROR: Weapon (weapon_blowtorch) using undefined secondary ammo type (rdb)
+Failed to load models/v_btorch.mdl!
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 5 classes, 1421 bytes.
+Game started
+
+Half-Life 2
+Map: sdk_vehicles
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/sdk_vehicles.txt.
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 57.608 KB, outgoing 1.016 KB
+Queued Material System: ENABLED!
+Compact freed 622592 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Node Graph out of Date. Rebuilding... (0, 1, 0)
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 6.469 msec!
+ai_network(.PAVCBaseEntity@@) thinking for 19.55 ms!!!
+Late precache of models/weapons/v_rif_m4a1.mdl
+Late precache of models/weapons/w_rif_m4a1.mdl
+Late precache of models/weapons/w_rif_m4a1_silencer.mdl
+Attempted to create unknown entity type curremtammo!
+NULL Ent in GiveNamedItem!
+Attempted to create unknown entity type suit!
+NULL Ent in GiveNamedItem!
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: sdk_vehicles
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 280
+Done version checks
+Finishing load
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+PrecacheScriptSound 'Weapon_Blowtorch.Fire' failed, no such sound script entry
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/weapon_blowtorch.txt
+WeaponData, TextureData, 24, (*ammo2*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/weapon_blowtorch.txt
+WeaponData, (*TextureData*), (*24*), (*ammo2*), 
+ERROR: Weapon (weapon_blowtorch) using undefined secondary ammo type (rdb)
+Failed to load models/v_btorch.mdl!
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 5 classes, 1421 bytes.
+Game started
+
+Half-Life 2
+Map: sdk_vehicles
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/sdk_vehicles.txt.
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 57.634 KB, outgoing 1.016 KB
+Queued Material System: ENABLED!
+Compact freed 622592 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+prop_vehicle_jeep(.PAVCBaseEntity@@) thinking for 16.19 ms!!!
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 2.768 msec!
+Unknown command: mat_fullbirght
+prop_vehicle_jeep(.PAVCBaseEntity@@) thinking for 11.38 ms!!!
+Attempted to create unknown entity type weapon_gauss!
+NULL Ent in GiveNamedItem!
+VehicleType:class C_PropJeepEpisodic:
+VehicleType:class C_PropJeepEpisodic:
+Queued Material System: DISABLED!
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Server shutting down)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+4095 MB of system RAM
+4095 MB of system RAM
+'userconfig.cfg' not present; not executing.
+Host_WriteConfiguration: Wrote cfg/config.cfg
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Changing resolutions from (1920, 1080) -> (1920, 1080)
+'userconfig.cfg' not present; not executing.
+Host_WriteConfiguration: Wrote cfg/config.cfg
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+---- Host_NewGame ----
+Spawn Server: testinglightmuzzleflashes
+"materials/maps/testinglightmuzzleflashes/cubemapdefault.vtf": can't be found on disk
+Texture 'maps/testinglightmuzzleflashes/cubemapdefault' not found.
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+PrecacheScriptSound 'Weapon_Blowtorch.Fire' failed, no such sound script entry
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/weapon_blowtorch.txt
+WeaponData, TextureData, 24, (*ammo2*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/weapon_blowtorch.txt
+WeaponData, (*TextureData*), (*24*), (*ammo2*), 
+ERROR: Weapon (weapon_blowtorch) using undefined secondary ammo type (rdb)
+Failed to load models/v_btorch.mdl!
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 4 classes, 1088 bytes.
+Game started
+
+Half-Life 2
+Map: testinglightmuzzleflashes
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+Level unlit, setting 'mat_fullbright 1'
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/testinglightmuzzleflashes.txt.
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 56.329 KB, outgoing 1.016 KB
+Queued Material System: ENABLED!
+Compact freed 491520 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Node Graph out of Date. Rebuilding... (0, 1, 0)
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 1.453 msec!
+ai_network(.PAVCBaseEntity@@) thinking for 15.12 ms!!!
+Queued Material System: DISABLED!
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Server shutting down)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+4095 MB of system RAM
+4095 MB of system RAM
+'userconfig.cfg' not present; not executing.
+Host_WriteConfiguration: Wrote cfg/config.cfg
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Changing resolutions from (1920, 1080) -> (1920, 1080)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+'userconfig.cfg' not present; not executing.
+Host_WriteConfiguration: Wrote cfg/config.cfg
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Changing resolutions from (1920, 1080) -> (1920, 1080)
+'userconfig.cfg' not present; not executing.
+Host_WriteConfiguration: Wrote cfg/config.cfg
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: testinglightmuzzleflashes
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 2
+Done version checks
+Finishing load
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+PrecacheScriptSound 'Weapon_Blowtorch.Fire' failed, no such sound script entry
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/weapon_blowtorch.txt
+WeaponData, TextureData, 24, (*ammo2*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/weapon_blowtorch.txt
+WeaponData, (*TextureData*), (*24*), (*ammo2*), 
+ERROR: Weapon (weapon_blowtorch) using undefined secondary ammo type (rdb)
+Failed to load models/v_btorch.mdl!
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 4 classes, 1088 bytes.
+Game started
+
+Half-Life 2
+Map: testinglightmuzzleflashes
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/testinglightmuzzleflashes.txt.
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 56.329 KB, outgoing 1.016 KB
+Queued Material System: ENABLED!
+Compact freed 503808 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 12.104 msec!
+Queued Material System: DISABLED!
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Server shutting down)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: testinglightmuzzleflashes
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 2
+Done version checks
+Finishing load
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+PrecacheScriptSound 'Weapon_Blowtorch.Fire' failed, no such sound script entry
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/weapon_blowtorch.txt
+WeaponData, TextureData, 24, (*ammo2*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/weapon_blowtorch.txt
+WeaponData, (*TextureData*), (*24*), (*ammo2*), 
+ERROR: Weapon (weapon_blowtorch) using undefined secondary ammo type (rdb)
+Failed to load models/v_btorch.mdl!
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 4 classes, 1088 bytes.
+Game started
+
+Half-Life 2
+Map: testinglightmuzzleflashes
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/testinglightmuzzleflashes.txt.
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 56.329 KB, outgoing 1.016 KB
+Queued Material System: ENABLED!
+Compact freed 503808 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 8.360 msec!
+'userconfig.cfg' not present; not executing.
+Host_WriteConfiguration: Wrote cfg/config.cfg
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Changing resolutions from (1920, 1080) -> (1280, 720)
+Queued Material System: DISABLED!
+R_RedownloadAllLightmaps took 8.048 msec!
+Requesting full game update...
+Queued Material System: ENABLED!
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+'userconfig.cfg' not present; not executing.
+Host_WriteConfiguration: Wrote cfg/config.cfg
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Changing resolutions from (1280, 720) -> (1280, 600)
+Queued Material System: DISABLED!
+R_RedownloadAllLightmaps took 2.067 msec!
+Queued Material System: ENABLED!
+'userconfig.cfg' not present; not executing.
+Host_WriteConfiguration: Wrote cfg/config.cfg
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Queued Material System: DISABLED!
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Server shutting down)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 0
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: testinglightmuzzleflashes
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 2
+Done version checks
+Finishing load
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+PrecacheScriptSound 'Weapon_Blowtorch.Fire' failed, no such sound script entry
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/weapon_blowtorch.txt
+WeaponData, TextureData, 24, (*ammo2*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/weapon_blowtorch.txt
+WeaponData, (*TextureData*), (*24*), (*ammo2*), 
+ERROR: Weapon (weapon_blowtorch) using undefined secondary ammo type (rdb)
+Failed to load models/v_btorch.mdl!
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 4 classes, 1088 bytes.
+Game started
+
+Half-Life 2
+Map: testinglightmuzzleflashes
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/testinglightmuzzleflashes.txt.
+material "effects/muzzleflashx" not found.
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 56.329 KB, outgoing 1.016 KB
+Queued Material System: ENABLED!
+Compact freed 409600 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 3.164 msec!
+Saving game to save\half-life-001.sav...
+Queued Material System: DISABLED!
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Server shutting down)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: testinglightmuzzleflashes
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 2
+Done version checks
+Finishing load
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+PrecacheScriptSound 'Weapon_Blowtorch.Fire' failed, no such sound script entry
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/weapon_blowtorch.txt
+WeaponData, TextureData, 24, (*ammo2*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/weapon_blowtorch.txt
+WeaponData, (*TextureData*), (*24*), (*ammo2*), 
+ERROR: Weapon (weapon_blowtorch) using undefined secondary ammo type (rdb)
+Failed to load models/v_btorch.mdl!
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 4 classes, 1088 bytes.
+Game started
+
+Half-Life 2
+Map: testinglightmuzzleflashes
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/testinglightmuzzleflashes.txt.
+material "effects/muzzleflashx" not found.
+Duplicately assigned weapon slots in selection hud:  #HL2_AlyxGun (1, 4)
+Duplicately assigned weapon slots in selection hud:  #HL2_CSS_XM1014 (3, 0)
+Duplicately assigned weapon slots in selection hud:  #HL2_CSS_M3 (3, 0)
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 56.329 KB, outgoing 1.016 KB
+Queued Material System: ENABLED!
+Compact freed 430080 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 2.153 msec!
+baseentity.cpp (4920) : Assertion Failed: !"CBaseEntity::PrecacheModel:  too late"
+Late precache of models/weapons/v_rif_ak47.mdl
+baseentity.cpp (4920) : Assertion Failed: !"CBaseEntity::PrecacheModel:  too late"
+Late precache of models/weapons/w_rif_ak47.mdl
+Error reading weapon data file for: class CWeapon_CSS_HL2_AK47
+vector.h (1101) : Assertion Failed: IsFinite(b)
+vector.h (1101) : Assertion Failed: IsFinite(b)
+vector.h (1101) : Assertion Failed: IsFinite(b)
+vector.h (1101) : Assertion Failed: IsFinite(b)
+vector.h (1101) : Assertion Failed: IsFinite(b)
+vector.h (1101) : Assertion Failed: IsFinite(b)
+particles_simple.cpp (206) : Assertion Failed: m_vSortOrigin.IsValid()
+particles_simple.cpp (206) : Assertion Failed: m_vSortOrigin.IsValid()
+particles_simple.cpp (206) : Assertion Failed: m_vSortOrigin.IsValid()
+particles_simple.cpp (206) : Assertion Failed: m_vSortOrigin.IsValid()
+particles_simple.cpp (206) : Assertion Failed: m_vSortOrigin.IsValid()
+clientleafsystem.cpp (389) : Assertion Failed: absMins.IsValid() && absMaxs.IsValid()
+clientleafsystem.cpp (1168) : Assertion Failed: absMins.IsValid() && absMaxs.IsValid()
+vector.h (1101) : Assertion Failed: IsFinite(b)
+vector.h (1101) : Assertion Failed: IsFinite(b)
+vector.h (1101) : Assertion Failed: IsFinite(b)
+vector.h (1101) : Assertion Failed: IsFinite(b)
+vector.h (1101) : Assertion Failed: IsFinite(b)
+vector.h (1101) : Assertion Failed: IsFinite(b)
+clientleafsystem.cpp (389) : Assertion Failed: absMins.IsValid() && absMaxs.IsValid()
+clientleafsystem.cpp (1168) : Assertion Failed: absMins.IsValid() && absMaxs.IsValid()
+clientleafsystem.cpp (389) : Assertion Failed: absMins.IsValid() && absMaxs.IsValid()
+clientleafsystem.cpp (1168) : Assertion Failed: absMins.IsValid() && absMaxs.IsValid()
+vector.h (1101) : Assertion Failed: IsFinite(b)
+vector.h (1101) : Assertion Failed: IsFinite(b)
+vector.h (1101) : Assertion Failed: IsFinite(b)
+vector.h (1101) : Assertion Failed: IsFinite(b)
+vector.h (1101) : Assertion Failed: IsFinite(b)
+vector.h (1101) : Assertion Failed: IsFinite(b)
+clientleafsystem.cpp (389) : Assertion Failed: absMins.IsValid() && absMaxs.IsValid()
+clientleafsystem.cpp (1168) : Assertion Failed: absMins.IsValid() && absMaxs.IsValid()
+clientleafsystem.cpp (389) : Assertion Failed: absMins.IsValid() && absMaxs.IsValid()
+clientleafsystem.cpp (1168) : Assertion Failed: absMins.IsValid() && absMaxs.IsValid()
+clientleafsystem.cpp (389) : Assertion Failed: absMins.IsValid() && absMaxs.IsValid()
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: testinglightmuzzleflashes
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 2
+Done version checks
+Finishing load
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+PrecacheScriptSound 'Weapon_Blowtorch.Fire' failed, no such sound script entry
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/weapon_blowtorch.txt
+WeaponData, TextureData, 24, (*ammo2*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/weapon_blowtorch.txt
+WeaponData, (*TextureData*), (*24*), (*ammo2*), 
+ERROR: Weapon (weapon_blowtorch) using undefined secondary ammo type (rdb)
+Failed to load models/v_btorch.mdl!
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 4 classes, 1088 bytes.
+Game started
+
+Half-Life 2
+Map: testinglightmuzzleflashes
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/testinglightmuzzleflashes.txt.
+material "effects/muzzleflashx" not found.
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 56.329 KB, outgoing 1.016 KB
+Queued Material System: ENABLED!
+Compact freed 503808 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 7.210 msec!
+Late precache of models/weapons/v_rif_ak47.mdl
+Late precache of models/weapons/w_rif_ak47.mdl
+Queued Material System: DISABLED!
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Server shutting down)
+---- Host_NewGame ----
+Spawn Server: testinglightmuzzleflashes
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 2
+Done version checks
+Finishing load
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+ERROR: Weapon (weapon_blowtorch) using undefined secondary ammo type (rdb)
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Game started
+
+Half-Life 2
+Map: testinglightmuzzleflashes
+Players: 1 / 1
+Build: 0
+Server Number: 2
+
+Initializing renderer...
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 53.769 KB, outgoing 1.163 KB
+Queued Material System: ENABLED!
+Compact freed 798720 bytes
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 2.345 msec!
+Late precache of models/weapons/v_rif_ak47.mdl
+Late precache of models/weapons/w_rif_ak47.mdl
+Queued Material System: DISABLED!
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Server shutting down)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.2 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: testinglightmuzzleflashes
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 2
+Done version checks
+Finishing load
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+PrecacheScriptSound 'Weapon_Blowtorch.Fire' failed, no such sound script entry
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/weapon_blowtorch.txt
+WeaponData, TextureData, 24, (*ammo2*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/weapon_blowtorch.txt
+WeaponData, (*TextureData*), (*24*), (*ammo2*), 
+ERROR: Weapon (weapon_blowtorch) using undefined secondary ammo type (rdb)
+Failed to load models/v_btorch.mdl!
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 4 classes, 1088 bytes.
+Game started
+
+Half-Life 2
+Map: testinglightmuzzleflashes
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/testinglightmuzzleflashes.txt.
+material "effects/muzzleflashx" not found.
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 56.329 KB, outgoing 1.016 KB
+Queued Material System: ENABLED!
+Compact freed 503808 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 49.804 msec!
+Late precache of models/weapons/v_rif_ak47.mdl
+Late precache of models/weapons/w_rif_ak47.mdl
+Attempted to create unknown entity type item_suot!
+NULL Ent in GiveNamedItem!
+Late precache of models/weapons/v_pist_p228.mdl
+Late precache of models/weapons/w_pist_p228.mdl
+Late precache of models/weapons/v_mach_m249para.mdl
+Late precache of models/weapons/w_mach_m249para.mdl
+Unknown command: so
+Unknown command: im
+Unknown command: uh
+Unknown command: yea
+Unknown command: lmao
+Unknown command: yea
+Queued Material System: DISABLED!
+ 1:Stopped sound hl1\fvox\flatline.wav
+Saving d:\game mods\hl2 mods\port of original ds to source\sp\game\mod_episodic\sound\sound.cache
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Server shutting down)
+---- Host_NewGame ----
+Spawn Server: testinglightmuzzleflashes
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 2
+Done version checks
+Finishing load
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+ERROR: Weapon (weapon_blowtorch) using undefined secondary ammo type (rdb)
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Game started
+
+Half-Life 2
+Map: testinglightmuzzleflashes
+Players: 1 / 1
+Build: 0
+Server Number: 2
+
+Initializing renderer...
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 53.769 KB, outgoing 1.427 KB
+Queued Material System: ENABLED!
+Compact freed 1077248 bytes
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 9.744 msec!
+Late precache of models/weapons/v_rif_m4a1.mdl
+Late precache of models/weapons/w_rif_m4a1.mdl
+Late precache of models/weapons/w_rif_m4a1_silencer.mdl
+Unknown command: try
+Unknown command: ill
+Attempting to precache model, but model name is NULL
+npc_kleiner thinking for 51.62ms!!! (SCHED_IDLE_STAND); r0.05 (c0.04, pst0.00, ms0.01), p-r0.01, m0.00
+Attempted to create unknown entity type npc_metrocop!
+Unknown command: beron
+Unknown command: tbro
+Unknown command: bro
+Unknown command: let
+Unknown command: make
+Unknown command: come
+Attempted to create unknown entity type weapon_css_mp5!
+NULL Ent in GiveNamedItem!
+Late precache of models/weapons/v_smg_mp5.mdl
+Late precache of models/weapons/w_smg_mp5.mdl
+npc_kleiner thinking for 10.51ms!!! (SCHED_IDLE_STAND); r0.08 (c0.06, pst0.00, ms0.02), p-r0.03, m0.00
+noclip ON
+Late precache of models/weapons/v_pist_glock18.mdl
+Late precache of models/weapons/w_pist_glock18.mdl
+noclip OFF
+npc_metropolice thinking for 16.80ms!!! (SCHED_METROPOLICE_CHASE_ENEMY); r14.28 (c0.05, pst0.00, ms14.23), p-r0.02, m1.47
+ERROR: Weapon (weapon_blowtorch) using undefined secondary ammo type (rdb)
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/weapon_blowtorch.txt
+WeaponData, TextureData, 24, (*ammo2*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/weapon_blowtorch.txt
+WeaponData, (*TextureData*), (*24*), (*ammo2*), 
+ERROR: Weapon (weapon_blowtorch) using undefined secondary ammo type (rdb)
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/weapon_blowtorch.txt
+WeaponData, TextureData, 24, (*ammo2*), 
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file scripts/weapon_blowtorch.txt
+WeaponData, (*TextureData*), (*24*), (*ammo2*), 
+Saving d:\game mods\hl2 mods\port of original ds to source\sp\game\mod_episodic\sound\sound.cache
+Queued Material System: DISABLED!
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Server shutting down)
+---- Host_NewGame ----
+Spawn Server: testinglightmuzzleflashes
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 2
+Done version checks
+Finishing load
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+ERROR: Weapon (weapon_blowtorch) using undefined secondary ammo type (rdb)
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Game started
+ 0:Stopped sound ui\buttonrollover.wav
+ 1:Stopped sound ui\buttonrollover.wav
+
+Half-Life 2
+Map: testinglightmuzzleflashes
+Players: 1 / 1
+Build: 0
+Server Number: 3
+
+Initializing renderer...
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 53.769 KB, outgoing 1.427 KB
+Queued Material System: ENABLED!
+Compact freed 1220608 bytes
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 12.055 msec!
+ERROR: Weapon (weapon_blowtorch) using undefined secondary ammo type (rdb)
+ERROR: Weapon (weapon_blowtorch) using undefined secondary ammo type (rdb)
+Queued Material System: DISABLED!
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Server shutting down)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: testinglightmuzzleflashes
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 2
+Done version checks
+Finishing load
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+PrecacheScriptSound 'Weapon_Blowtorch.Fire' failed, no such sound script entry
+Failed to load models/v_btorch.mdl!
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 4 classes, 1088 bytes.
+Game started
+
+Half-Life 2
+Map: testinglightmuzzleflashes
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/testinglightmuzzleflashes.txt.
+material "effects/muzzleflashx" not found.
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 56.329 KB, outgoing 1.016 KB
+Queued Material System: ENABLED!
+Compact freed 503808 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 3.155 msec!
+Late precache of models/weapons/v_smg_mp5.mdl
+Late precache of models/weapons/w_smg_mp5.mdl
+Queued Material System: DISABLED!
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Server shutting down)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: testinglightmuzzleflashes
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 2
+Done version checks
+Finishing load
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+PrecacheScriptSound 'Weapon_Blowtorch.Fire' failed, no such sound script entry
+v_btorch.mdl : material "models/weapons/v_models/btorch/handfinal256" not found.
+v_btorch.mdl : material "models/weapons/v_models/rdb/handfinal256" not found.
+v_btorch.mdl : material "models/weapons/v_models/btorch/v_blowtorch" not found.
+v_btorch.mdl : material "models/weapons/v_models/rdb/v_blowtorch" not found.
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 4 classes, 1088 bytes.
+Game started
+
+Half-Life 2
+Map: testinglightmuzzleflashes
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/testinglightmuzzleflashes.txt.
+material "effects/muzzleflashx" not found.
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 56.327 KB, outgoing 1.016 KB
+Queued Material System: ENABLED!
+Compact freed 507904 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 2.263 msec!
+Queued Material System: DISABLED!
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Server shutting down)
+---- Host_NewGame ----
+Spawn Server: testinglightmuzzleflashes
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 2
+Done version checks
+Finishing load
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Game started
+
+Half-Life 2
+Map: testinglightmuzzleflashes
+Players: 1 / 1
+Build: 0
+Server Number: 2
+
+Initializing renderer...
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 53.767 KB, outgoing 1.251 KB
+Queued Material System: ENABLED!
+Compact freed 622592 bytes
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 2.975 msec!
+CClientSteamContext OnSteamServersDisconnected logged on = 0
+Late precache of models/weapons/v_rif_m4a1.mdl
+Late precache of models/weapons/w_rif_m4a1.mdl
+Late precache of models/weapons/w_rif_m4a1_silencer.mdl
+Queued Material System: DISABLED!
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Server shutting down)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: testinglightmuzzleflashes
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 2
+Done version checks
+Finishing load
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+PrecacheScriptSound 'Weapon_Blowtorch.Fire' failed, no such sound script entry
+v_btorch.mdl : material "models/weapons/v_models/btorch/handfinal256" not found.
+v_btorch.mdl : material "models/weapons/v_models/rdb/handfinal256" not found.
+v_btorch.mdl : material "models/weapons/v_models/btorch/v_blowtorch" not found.
+v_btorch.mdl : material "models/weapons/v_models/rdb/v_blowtorch" not found.
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 4 classes, 1088 bytes.
+Game started
+
+Half-Life 2
+Map: testinglightmuzzleflashes
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/testinglightmuzzleflashes.txt.
+material "effects/muzzleflashx" not found.
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 56.327 KB, outgoing 1.016 KB
+Queued Material System: ENABLED!
+Compact freed 503808 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 2.802 msec!
+Late precache of models/weapons/v_mach_m249para.mdl
+Late precache of models/weapons/w_mach_m249para.mdl
+Queued Material System: DISABLED!
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Server shutting down)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: testinglightmuzzleflashes
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 2
+Done version checks
+Finishing load
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+PrecacheScriptSound 'Weapon_Blowtorch.Fire' failed, no such sound script entry
+v_btorch.mdl : material "models/weapons/v_models/btorch/handfinal256" not found.
+v_btorch.mdl : material "models/weapons/v_models/rdb/handfinal256" not found.
+v_btorch.mdl : material "models/weapons/v_models/btorch/v_blowtorch" not found.
+v_btorch.mdl : material "models/weapons/v_models/rdb/v_blowtorch" not found.
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 4 classes, 1088 bytes.
+Game started
+
+Half-Life 2
+Map: testinglightmuzzleflashes
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/testinglightmuzzleflashes.txt.
+material "effects/muzzleflashx" not found.
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 56.327 KB, outgoing 1.016 KB
+Queued Material System: ENABLED!
+Compact freed 507904 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 2.698 msec!
+Queued Material System: DISABLED!
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Server shutting down)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: testinglightmuzzleflashes
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 2
+Done version checks
+Finishing load
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+PrecacheScriptSound 'Weapon_Blowtorch.Fire' failed, no such sound script entry
+v_btorch.mdl : material "models/weapons/v_models/btorch/handfinal256" not found.
+v_btorch.mdl : material "models/weapons/v_models/rdb/handfinal256" not found.
+v_btorch.mdl : material "models/weapons/v_models/btorch/v_blowtorch" not found.
+v_btorch.mdl : material "models/weapons/v_models/rdb/v_blowtorch" not found.
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 4 classes, 1088 bytes.
+Game started
+
+Half-Life 2
+Map: testinglightmuzzleflashes
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/testinglightmuzzleflashes.txt.
+material "effects/muzzleflashx" not found.
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 56.327 KB, outgoing 1.016 KB
+Queued Material System: ENABLED!
+Compact freed 507904 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 2.729 msec!
+Late precache of models/weapons/flare.mdl
+Unknown command: wepon_strip
+Queued Material System: DISABLED!
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Server shutting down)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "hud_invert_zoom_unzoomed_crosshair_colors"
+Unknown command "cl_thirdperson"
+Unknown command "hud_aspect"
+cc_lang = 
+Unknown command "joy_legacy"
+Unknown command "joy_invertx"
+Unknown command "joy_vibration"
+Unknown command "sc_joystick_inner_deadzone_scale"
+Unknown command "sc_joystick_outer_deadzone_scale"
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sc_enable"
+Unknown command "sc_yaw_sensitivity_new2"
+Unknown command "sc_pitch_sensitivity_new2"
+Unknown command "sc_smart_sprint"
+Unknown command "sc_smart_sprint_start_bounds"
+Unknown command "sc_smart_sprint_end_bounds"
+Unknown command "sc_mouse_sensitivity"
+Unknown command "hud_fastswitch_net"
+Unknown command "vgui_hud_posture"
+Unknown command "sv_airboat_wheel_fix"
+Unknown command "sv_backspeed"
+Unknown command "sc_joystick_map"
+Unknown command "sc_debug_sets"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: testinglightmuzzleflashes
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 2
+Done version checks
+Finishing load
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+PrecacheScriptSound 'Weapon_Blowtorch.Fire' failed, no such sound script entry
+v_btorch.mdl : material "models/weapons/v_models/btorch/handfinal256" not found.
+v_btorch.mdl : material "models/weapons/v_models/rdb/handfinal256" not found.
+v_btorch.mdl : material "models/weapons/v_models/btorch/v_blowtorch" not found.
+v_btorch.mdl : material "models/weapons/v_models/rdb/v_blowtorch" not found.
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 4 classes, 1088 bytes.
+Game started
+
+Half-Life 2
+Map: testinglightmuzzleflashes
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/testinglightmuzzleflashes.txt.
+material "effects/muzzleflashx" not found.
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 56.327 KB, outgoing 1.016 KB
+Queued Material System: ENABLED!
+Compact freed 503808 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 3.701 msec!
+Queued Material System: DISABLED!
+Requesting full game update...
+Queued Material System: ENABLED!
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 2.634 msec!
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Usage:
+   ent_fire <target> [action] [value] [delay]
+Queued Material System: DISABLED!
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Server shutting down)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+CSoundEmitterSystem:  Registered 14585 sounds
+CResponseSystem:  scripts\talker\response_rules.txt (361 rules, 502 criteria, and 348 responses)
+maxplayers set to 1
+Heap: 256.00 Mb
+Steam config directory: D:\SteamLibrary\steamapps\common\Source SDK Base 2013 Singleplayer\platform\config
+Parsed 23 text messages
+CClientSteamContext logged on = 1
+Convar developer has multiple help strings:
+	parent (wins): "Set developer message level"
+	child: "Set developer message level."
+Both ConVars must be marked FCVAR_REPLICATED for linkage to work (r_VehicleViewDampen)
+Hud element 'CMapOverview' doesn't have an entry 'overview' in scripts/HudLayout.res
+CGameEventManager::AddListener: event 'achievement_earned' unknown.
+[Cloud]: Default setting with remote data non-existent, sync all
+execing config.cfg
+Unknown command "cl_thirdperson"
+cc_lang = 
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Unknown command "sv_backspeed"
+Not playing a local game.
+Sound Initialization: Start
+DS:stereo speaker configuration detected
+Set primary sound buffer format: yes
+Using secondary sound buffer
+   2 channel(s)
+   16 bits/sample
+   44100 samples/sec
+DirectSound initialized
+Sound Initialization: Finish, Sampling Rate: 44100
+4 CPUs, Frequency: 1.1 Ghz,  Features: GenuineIntel SSE SSE2 MMX RDTSC CMOV FCMOV
+execing valve.rc
+material "vgui/servers/icon_replay" not found.
+--- Missing Vgui material vgui/servers/icon_replay
+material "vgui/servers/icon_replay_column" not found.
+--- Missing Vgui material vgui/servers/icon_replay_column
+---- Host_NewGame ----
+Spawn Server: testinglightmuzzleflashes
+execing skill_manifest.cfg
+execing skill.cfg
+execing skill_episodic.cfg
+Set Gravity 600.0 (0.250 tolerance)
+PrecacheScriptSound 'ep_02.mag_aband_uptoyou' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_combat_thanks' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_grabroller' failed, no such sound script entry
+PrecacheScriptSound 'ep_01.al_sniper_dontwasteroller' failed, no such sound script entry
+PrecacheScriptSound 'Hud.Hint' failed, no such sound script entry
+Loading AI graph
+Step 1 loading
+Checking version
+Passed first ver check
+Got version 37
+Map version 2
+Done version checks
+Finishing load
+Error reading weapon data file for: weapon_Radio
+Error reading weapon data file for: weapon_camera
+Error reading weapon data file for: weapon_briefcase
+PrecacheScriptSound 'Weapon_Blowtorch.Fire' failed, no such sound script entry
+v_btorch.mdl : material "models/weapons/v_models/btorch/handfinal256" not found.
+v_btorch.mdl : material "models/weapons/v_models/rdb/handfinal256" not found.
+v_btorch.mdl : material "models/weapons/v_models/btorch/v_blowtorch" not found.
+v_btorch.mdl : material "models/weapons/v_models/rdb/v_blowtorch" not found.
+'cfg/motd.txt' not found; not loaded
+'cfg/motd_text.txt' not found; not loaded
+Created class baseline: 4 classes, 1088 bytes.
+Game started
+
+Half-Life 2
+Map: testinglightmuzzleflashes
+Players: 1 / 1
+Build: 0
+Server Number: 1
+
+Initializing renderer...
+Error! CMapOverview::SetMap: couldn't load file resource/overviews/testinglightmuzzleflashes.txt.
+material "effects/muzzleflashx" not found.
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Set Gravity 600.0 (0.250 tolerance)
+Signon traffic "CLIENT":  incoming 56.327 KB, outgoing 1.016 KB
+Queued Material System: ENABLED!
+Compact freed 503808 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 2.806 msec!
+Queued Material System: DISABLED!
+Requesting full game update...
+Queued Material System: ENABLED!
+Redownloading all lightmaps
+R_RedownloadAllLightmaps took 2.758 msec!
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+Sending full update to Client [GC.SKINS] Rixzzy #fixTF2
+FCVAR_CHEAT cvars reverted to defaults.
+FCVAR_CHEAT cvars reverted to defaults.
+Queued Material System: DISABLED!
+Dropped [GC.SKINS] Rixzzy #fixTF2 from server (Server shutting down)
+Host_WriteConfiguration: Wrote cfg/config.cfg
+CreateEvent: event 'server_shutdown' not registered.
+Shutdown function ShutdownMixerControls() not in list!!!

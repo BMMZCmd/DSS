@@ -4,6 +4,8 @@
 	title 		"Deleted Scenes Source"
 	supportsvr	0
 	type		singleplayer_only
+	nodegraph	1
+	gamedata	"dss.fgd"
 
 	FileSystem
 	{
